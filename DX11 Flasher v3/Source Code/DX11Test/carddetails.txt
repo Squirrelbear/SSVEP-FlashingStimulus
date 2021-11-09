@@ -1,0 +1,2 @@
+Card name: NVIDIA GeForce GTX 580
+Memory: 1488

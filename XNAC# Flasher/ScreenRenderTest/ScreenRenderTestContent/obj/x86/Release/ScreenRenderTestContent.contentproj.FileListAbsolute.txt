@@ -1,0 +1,3 @@
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTestContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTestContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTestContent\obj\x86\Release\ResolveAssemblyReference.cache

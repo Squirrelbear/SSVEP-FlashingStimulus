@@ -1,0 +1,8 @@
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Debug\ScreenRenderTest.exe
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Debug\ScreenRenderTest.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\obj\x86\Debug\ScreenRenderTest.exe
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\obj\x86\Debug\ScreenRenderTest.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Debug\Content\pixelcolour.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Debug\Content\hugeFont.xnb

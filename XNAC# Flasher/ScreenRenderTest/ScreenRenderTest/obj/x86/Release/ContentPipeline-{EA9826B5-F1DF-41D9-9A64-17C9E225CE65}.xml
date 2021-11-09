@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>pixelcolour.png</Source>
+      <Name>pixelcolour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\pixelcolour.xnb</Output>
+      <Time>2013-01-07T18:59:16+10:30</Time>
+    </Item>
+    <Item>
+      <Source>hugeFont.spritefont</Source>
+      <Name>hugeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\hugeFont.xnb</Output>
+      <Time>2013-01-07T22:04:11+10:30</Time>
+    </Item>
+    <Item>
+      <Source>videoHD.wmv</Source>
+      <Name>videoHD</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\videoHD.xnb</Output>
+      <Extra>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\videoHD.wmv</Extra>
+      <Time>2013-01-23T20:12:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>QualitySample.wmv</Source>
+      <Name>QualitySample</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\QualitySample.xnb</Output>
+      <Extra>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\QualitySample.wmv</Extra>
+      <Time>2013-01-24T21:20:12+10:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EA9826B5-F1DF-41D9-9A64-17C9E225CE65}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Peter\Dropbox\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\ScreenRenderTest\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-02T12:08:13.918+09:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

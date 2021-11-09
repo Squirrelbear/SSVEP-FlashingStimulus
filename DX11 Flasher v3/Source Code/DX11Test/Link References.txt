@@ -1,0 +1,24 @@
+GUI System
+http://www.antisphere.com/Wiki/tools:anttweakbar
+
+Win8 SDK:
+http://msdn.microsoft.com/en-us/windows/hardware/hh852363
+
+SpriteBatch:
+http://blogs.msdn.com/b/shawnhar/archive/2012/03/02/spritebatch-and-basiceffect-for-c-direct3d-11.aspx
+
+DX11 Tutorials:
+http://www.rastertek.com/tutdx11.html
+
+Video playing:
+http://www.programmersheaven.com/2/FAQ-DIRECTX-Play-Video-File%28MPEG-and-AVI%29
+
+DirectX install bug:
+http://stackoverflow.com/questions/4102259/directx-sdk-june-2010-installation-problems-error-code-s1023
+
+Game loop:
+http://www.mvps.org/directx/articles/writing_the_game_loop.htm
+
+Video Player:
+http://msdn.microsoft.com/en-us/library/dd388355%28v=vs.85%29.aspx
+http://ffmpeg.mplayerhq.hu/faq.html#Is-Microsoft-Visual-C_002b_002b-supported_003f

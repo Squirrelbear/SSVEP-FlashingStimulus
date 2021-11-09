@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenRenderTest", "ScreenRenderTest\ScreenRenderTest\ScreenRenderTest.csproj", "{832216A2-E4A2-4D1B-A9C0-3F1A5B229F6D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ScreenRenderTestContent", "ScreenRenderTest\ScreenRenderTestContent\ScreenRenderTestContent.contentproj", "{EA9826B5-F1DF-41D9-9A64-17C9E225CE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832216A2-E4A2-4D1B-A9C0-3F1A5B229F6D}.Debug|x86.ActiveCfg = Debug|x86
+		{832216A2-E4A2-4D1B-A9C0-3F1A5B229F6D}.Debug|x86.Build.0 = Debug|x86
+		{832216A2-E4A2-4D1B-A9C0-3F1A5B229F6D}.Release|x86.ActiveCfg = Release|x86
+		{832216A2-E4A2-4D1B-A9C0-3F1A5B229F6D}.Release|x86.Build.0 = Release|x86
+		{EA9826B5-F1DF-41D9-9A64-17C9E225CE65}.Debug|x86.ActiveCfg = Debug|x86
+		{EA9826B5-F1DF-41D9-9A64-17C9E225CE65}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
